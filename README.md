@@ -1,4 +1,4 @@
-# Smart Pack AI — Backend
+# Smart Pack AI
 
 > [!IMPORTANT]
 > **Demo Access Credentials — Available on Request**
