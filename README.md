@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > **Demo Access Credentials — Available on Request**
-> Full demo credentials (Admin, Individual, and Business accounts) for the live staging environment are available upon request.
+> Full demo credentials (Admin, Individual, and Business accounts) for the live staging environment are available upon request on imranraza2016a@gmail.com or 6200966346
 
 A production-ready **Node.js / TypeScript** REST API that powers the Smart Pack AI platform — an intelligent packing and moving assistant. The backend handles two user types (Individual & Business), AI-driven item recognition, cloud backup integrations, subscriptions, notifications, and a full Admin control panel.
 
