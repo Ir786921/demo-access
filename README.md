@@ -442,6 +442,3 @@ pnpm start   # runs ./build/server.js
 
 ---
 
-## Author
-
-**CraftIndika**
